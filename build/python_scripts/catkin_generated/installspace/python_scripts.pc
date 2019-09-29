@@ -1,0 +1,8 @@
+prefix=/home/ros/abb_ws/install
+
+Name: python_scripts
+Description: Description of python_scripts
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ros/abb_ws/install/lib 
+Requires: 

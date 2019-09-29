@@ -1,0 +1,8 @@
+prefix=/home/ros/abb_ws/devel
+
+Name: greyparrot
+Description: Description of greyparrot
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ros/abb_ws/devel/lib 
+Requires: 

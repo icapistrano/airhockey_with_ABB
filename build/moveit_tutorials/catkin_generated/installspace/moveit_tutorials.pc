@@ -1,8 +1,0 @@
-prefix=/home/ros/abb_ws/install
-
-Name: moveit_tutorials
-Description: Description of moveit_tutorials
-Version: 0.1.0
-Cflags: -I/home/ros/abb_ws/install/include -I/usr/include/eigen3
-Libs: -L/home/ros/abb_ws/install/lib -linteractivity_utils
-Requires: moveit_core moveit_visual_tools moveit_ros_planning_interface interactive_markers

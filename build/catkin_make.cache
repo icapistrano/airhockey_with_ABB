@@ -1,2 +1,0 @@
-abb_experimental/abb_experimental:abb_experimental/abb_irb120_moveit_config:abb_experimental/abb_irb120_support:abb_setup_assist_package:greyparrot:learning_tf:ros_industrial_abb/abb:ros_industrial_abb/abb_driver:ros_industrial_abb/abb_resources
--DCATKIN_DEVEL_PREFIX=/home/ros/abb_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ros/abb_ws/install -G Unix Makefiles
